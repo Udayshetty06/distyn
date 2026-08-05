@@ -1,0 +1,839 @@
+## 13-07
+
+### Paradigm shift
+
+1st rev - 18th century - mecahnication
+
+2nd rev - 19th-mid20th century - mass production and electrification 
+
+3rd rev - late 20th century - automation - mainframe and personal computers
+
+4th rev - early 21st century - intellectuation
+
+microcontroller → decides yes/no → decides control of the device 
+
+microprocessor → 
+
+---
+
+## 14-07
+
+keywords of previous classes - industrial revolution,paradigm shift,value creation , commn infra , digital X , strategic , privacy & security
+
+---
+
+### SECURITY
+
+who is responsible for security → sending device or receiving device → 
+
+---
+
+### DEFINITION
+
+iot defn → iot is a network that connects the 3 seperated environment elements (human ,thing and service)through internet and without interruption from human cooperatively establishes an intelligent relationship such as sensing ,networking and processing
+
+connected devices + intelligence → creating new value 
+
+---
+
+### STANDARDS
+
+Y.2060
+
+how is standard decided → standards are related to ITU-T 
+
+---
+
+### M2M -machine to machine
+
+comparision with rfid
+
+|  | rfid | iot |
+| --- | --- | --- |
+| network | short range , no internet | internet centered |
+| types of devices | sensor centered | virtual things of physical things such as sensor  |
+
+---
+
+### BACKGROUND OF IOTS EMERGENCE
+
+miniaturization → miniaturization of products depends on some elements  : driven by VLSI industry , reduction in chip size ,advances in microelectronics , MEMS(Micro-Electric-Mechanical systems
+
+low power → reduced power resulted in reduced size
+
+standardization → due to increased demand of compatibility . protocols like MQTT,CoAP ,6LoWPAN , standardized IPv6 . it ensures scalability,compatibility, security ensuring way of 
+
+low price → shifting to low power microcontroller , energy-efficient wireless protocols :zigbee etc , using energy harvesting : solar rf vibrational etc
+
+---
+
+### IoT evolution
+
+1. monitoring → tracking different values like heart rate 
+2. control → physical or remote control of product via an embedded software
+3. optimization → algorithm tht optimizes product operation ,use and service
+4. autonomy → entity itself will monitor , control and optimize
+
+---
+
+### COGNITIVE IOT : the ability to think and interpret : the ability to be deployed : have context awareness
+
+an intelligent iot core technology that responds more accurately and quickly by allowing intelligently things things to recognize and judge things on their own without having to transfer vast amounts of data to the cloud
+
+1. autonomy                                       → autonomous judgement and execution
+2. self optimize                                   → self optimization (sends knowledge)
+3. computing(big data ,iot)              → data processing and operations x intelligence (sends information)
+4. connecting (network)                   → connect and syncing x intelligence (receives stream of bits , sends data based on the source)
+5. sensing (sensor)                             → data acquisition (sends bits)
+
+difference between data and information : 
+
+data → quantifiable , redundancy 
+
+information → non quantifiable , no redundancy , probability is less than 1 (may or may not) 
+
+by removing redundancy from the data we get information                          
+
+when probability is 1 its not an information
+
+---
+
+intelligentization→ intelligent capability of understanding the meaning whe  dealing with new object or situation and figuring out reasonable way to adjust
+
+device introprobabality → communication 
+
+data compatibility becomes essential 
+
+wat is context awareness and what is cognitive ioT
+
+---
+
+## 15-07
+
+### keywords of previous class :
+
+ evolution of iot , standardization , cognitive iot , data v/s information 
+
+bits→data→information→knowledge 
+
+---
+
+IOT 1.0 → CONNECTED IOT PLATFORM
+
+IOT 2.0 → IOT 1.0 + INTELLIGENCE → INTELLIGENT IOT PLATFORM (cognitive iot)
+
+intelligence here means ability to dump a machine learning algo in the iot system fro example arduino cannot use ml or dl (deep learning ) raspberry pi has an ability to deploy AI ML and deep learning
+
+---
+
+### Internet of Behavior (IoB)
+
+Internet of both ; behavior of system and human because both are interrelated
+
+---
+
+### smart healthcare
+
+- Wearables
+- Healthcare platforms
+    
+    example google fit → doesnt concern about low level hardware → uses middle ware → it has to be compatible with hardware and internet . google fit connects hardware with other services like gmail etc.
+    
+
+---
+
+ protocol → set of rules , not written entirely at once → developed in 7 different layers : (osi model)
+
+- physical
+- data link layer
+- data layer
+- transfer layer
+- session layer
+- presentation
+- application - country level
+
+---
+
+gateway → country level protocol of the iot - application layer
+
+page 34 - application platform / common platform important 
+
+---
+
+### smart home - nutshell
+
+---
+
+### smart city -
+
+- waste management
+- smart security montoring
+- smart water grid
+- disaster detection and response
+- multiple transit information links - to be continued
+
+---
+
+### smart city services
+
+- cctv services
+- traffic congestion information
+
+---
+
+### smart logistics
+
+supply chain management has turned smart 
+
+smart logistics from pov of : user , business , technology(interface)
+
+uld - universal load delivery
+
+dimensional standards - deals with size between transport and packing
+
+environmental standards - 
+
+structural standards - 
+
+functional standards - 
+
+---
+
+### smart factory
+
+SAP is a CRM to keep track of many factories etc which will pass the demand to corporate management which plans about what to manufacture , how much to manufacture , and sends it to factory operations and it contols field automations . CAD inputs is given to bottom 3 levels for the product
+
+---
+
+### smart farm
+
+## 16-07
+
+### keywords of last class:
+
+SCM , perspectives , 
+
+### autonomous vehicle
+
+driving a car requires following things from a human body → motor skills , senses ( eyes,ears) , brain → which can be replaced by motors , sensors , AI respectively
+
+in proper terms we require : recognition , judgement , control 
+
+RADAR- radio detection and ranging          LIDAR - light detection and ranging
+
+correspondance - sensor determining error from desired path similar to feedback loop
+
+stages of automation / autonomy
+
+level 0 - driver only 
+
+level 1 - foot off - automatically controlling accelereation and deceleration ex: cruise control
+
+level 2 - hands off
+
+level 3 - eyes off
+
+level 4 - brains off
+
+level 5 - driver off
+
+v2x communication is a commmunication protocol for autonomous cars
+
+---
+
+### Smart energy
+
+energy ict (information and communication technology )
+
+encored industry machines used for smart meters
+
+discussion on 4g v/s wifi : 1/2/3/4/5G → voice (main) + data (addon) , wifi → data (main) + voice (addon)   
+
+---
+
+### Sensors
+
+generations of sensors:
+
+1st gen - discrete sensor
+
+2nd gen - integrated sensor
+
+3rd gen - digital sensor
+
+4th gen - smart sensor - slide 88 - defn important
+
+---
+
+## 17-07
+
+discussion on blynk - advantages , disadvandatages
+
+disadvantages - limited number of sensors
+
+iot platform - middle ware responsible for communication btw hardware and software , can be deployed on a cloud or server or deployed directly on a system
+
+direction of iot platform - vertical direction , horizontal direction
+
+vertical direction (good securtiy) → meter → server → device (dedicated iot platform) → PTC ThingWorx , siemens insight hub , bosch , samsara 
+
+horizontal direction (good business / deployment ) → meter → common server → devices (common iot platform) → AWS , azure iot hub , iot core , cisco , vodafone 
+
+ISO MODEL -
+
+things (gathering) → networking (transmit) → platform (computing) → user (customer)
+
+---
+
+## 18-07
+
+continuing sensors
+
+### medical sensors -
+
+eeg  ( brain ) , ecg ( heart ) ,emg ( muscle )
+
+eeg - sense the concentration of brain to convert into signals , does not sense what is the thought
+
+emg - sense the contraction and expansion of muscles
+
+---
+
+### mobile sensor -
+
+camera / image sensor
+
+acoustic sensor
+
+proximity sensor
+
+ambient light sensor
+
+gravity sensor
+
+gps sensor - constellation of satellites owned by US govt , discusion on NAAVIK
+
+acceleration sensor
+
+geographic sensor
+
+gyroscope
+
+barometer
+
+motion sensor
+
+---
+
+### Cloud computing -
+
+outsourcing the complex task to a remote server for ex : google collab - provides gpu etc , kegel - manipulates the dataset for reducing complexity , less ingenuity 
+
+more load on cloud . best for - big data analysis ,storage , AI training 
+
+---
+
+### Edge computing -
+
+small tasks tht can be computed by edge devices , “ data processing happens near to source of the data instead of sending everything to cloud “ 
+
+proximity to data , low latency , reduced bw usage improved reliability . best for - real time processing , iot , time-sensitive computing 
+
+---
+
+### INFRASTRUCTURE AS A SERVICE
+
+virtualized computing resources over the internet - hardware , networking , storage , virtualization 
+
+used to develop and deploy an application without having physical infrastructure
+
+---
+
+### SOFTWARE AS A SERVICE
+
+fully functional software , no developing options 
+
+---
+
+### QUICK CONCLUSION
+
+IAAS - FULL CONTROL , use case - hosting apps , storage , backup , testing an app
+
+PAAS - CUSTOMIZING EXISTING THINGS FOR YOUR APPLICATION DEVELOPMENT , use case - building / deploying apps without managing data 
+
+SAAS - EVERY ASPECT OF THE APPLICATION IS ALREADY DEVELOPED 
+
+---
+
+### NETWORK
+
+two address - MAC AND IP 
+
+Discussion on TCP , UDP protocols
+
+tcp - transfer control protocol , udp - user datagram protocol 
+
+IEEE - 802.15 - wireless communication protocols
+
+      802.15.4 - zigbee
+
+in jupyter notebook - runtime type can be changed to t4 gpu to compute in cloud , in cloud computing minor syntax change is present 
+
+hhtp - hyper text transfer protocol 
+
+ftp - file transfer protocol
+
+smtp - simple mail transfer protocol 
+
+whenever sending a data from point A to point B 
+
+A sends a data thru 7 layers of osi model and each layer adds a unique header and tailer and then send to point B and then 7 layers of OSI model removes the 7 headers and tailers respectively . in IPv4 header , type of service denotes the type of media that is being transferred , eg : video , text etc . 
+
+ 
+
+IPv4 - Variable length and hence require padding bit to mainatain the fixed length - 32 bit addressing 
+
+IPSEC - security protocol
+
+IPv6 address type - Unicast , Anycast , Multicast 
+
+## 21-07-2026
+
+### short range communication
+
+1.bluetooth
+2.BLE
+3.RFID
+4.NFC
+5.UWB
+
+### Z wave
+
+low power wireless communication protocol - for home automation and smart buildings - operate at sub-Ghz ISM band - minimizes interference from Bluetooth and wifi
+standard : ITU-T G.9959
+data rate: 9.6 kbps , 40 kbps , 100 kbps (z-wave plus)
+range: 30-100 m indoors , 300 m outdoors (LOS)
+topology : mesh
+maximum nodes : 232 devices
+security : AES-128 encryption with security S2 framework
+AES-128 encryption was very good until introduction of quantum decrypting
+limitation : only 232 devices supported
+
+### wireless HART
+
+wireless Highway Addressable Remote Transducer
+self healing mesh - a mesh of servers used as a backup which are connected to the sensors mesh which allows backup as server copies data as soon as it receives the data
+properties of WIRELESS HART
+standard : IEC 62591
+compatible with existing industrial control system
+range : 75-250 m
+self healing mesh
+
+#### Features of wireless HART
+
+- time synchronized communication
+- channel hopping to avoid interference
+- redundant communication path
+- deterministic communication
+- supports industrial reliability requirements
+
+#### advantages
+
+- high reliability , Robust against interference , Compatible with existing HART , long battery life
+
+### ISA100.11a
+
+industrial wireless communication standard - developed by International Society of Automation (ISA)
+standard : ISA100.11a
+Frequency : 2.4GHz
+Range : 75-300 m
+topology : mesh and star
+Data Rate : 250 kbps
+power consumption : low
+security : AES-128 encryption
+
+#### key features
+
+IPv6 compatibiltiy
+time synchronization
+frequency hoping
+redundant routing
+supports multiple industrial protocols
+dynamic routing
+
+#### advantages
+
+highly flexible
+supports monitooring and control
+
+#### limitation
+
+more complex implementation
+hiher deployment cost
+less widespread than wirelessHART
+Z-wave / Wireless HART / ISA	wifi
+low power	high power
+battery operated devices	mostly mains powered
+small data packets	large data packet
+long battery life	
+mesh network	mostly star topology
+reliability sensing and control
+
+### LONG RANGE COMMUNICATION
+
+### LoRaWAN
+
+low power , long range wireless communication protocol designed for iot - for example farm applications
+built on top of LoRa which is the physical(radio) layer developed by semtech
+LoRa: physical layer - radio modulation
+LoRaWAN : MAC and network protocol
+
+### Sigfox
+
+Low power wide area network
+private long range communication
+has authentication , high battery life - 10 to 20 years , star topology , range is 10 to 50 km
+
+### NB-IoT
+
+Narrow band iot
+licensed to ensure compatibility with cellular networks
+
+IOT OF EVERYTHING
+
+## 22-07
+
+### Identification system technology
+
+### Search Technology
+
+client - server model
+
+peer to peer 
+
+### device management system / battery management
+
+focusses on health of the system mainly battery
+
+device manager server uses device managing protocols to manage device clients 
+
+BSS/OSS → Device management Serve → device management client (read full forms of todays class)
+
+SNMP TR-069 -important protocol for IoT systems → 
+
+ONA-DM
+
+### ligth Weight Machine To Machine
+
+LWM2M PROTOCOL,CoAP,DTLS,SMS,UDP - developed by OMA - open mobile alliance 
+
+### IOT PLATFORM
+
+mobius IOT platform - focussed on M2M
+
+thing plus
+
+samsung iot smrtthings
+
+EVERYTHING
+
+## Applications With Raspberry Pi
+
+→ flat ribbons cables , dhts , ultrasonic, pwm , 
+
+we are using raspberry pi 4 model B
+
+### Electric Field Control
+
+raspberry pi → relay module → Electric blanket controller
+
+### Electronic Door System
+
+raspberry pi + ultrasonic sensor + camera + Electronic door (servo) + tweeter/push server  
+
+### Smart Home
+
+raspberry pi + dht sensor 
+
+### 2.1 Digital input and electric circuit
+
+basic circuit defn , breadboard - solderless board 
+
+### COMMUNICATION PROTOCOLS
+
+#### SPI - serial peripheral interface
+
+Clock (SCLK), Master Out Slave In (MOSI), Master In Slave Out (MISO), and Chip Select (CS)
+
+100 kbps to 5 Mbps
+
+!Screenshot 2026-07-28 162940.png
+
+synchronous and assynchronous lines defn
+
+board mode and pcm mode - two modes in raspberry pi
+
+gpio pins are bidirectional pins - input or output can be selected but not together
+
+hardware state of output pin always has 0 or 1 value unless output value is changed in the program. these pin are referred ass latch - xoxo(why is it called latch?)
+
+hardware state of input is never latched or never fixed at 1 or 0 .  in case of input pin it shld always have high impedance state - xoxo(what is high impedamce state,whys is it impor)
+
+### high-Z (High impedance )
+
+the state that accepts the output of the device as it it 
+
+digital devices has 3 states - HIGH(1) , LOW(0) , HIGH-Z(HIGH IMPEDANCE /OPEN)
+
+!image.png
+
+interfacing a push button and led to raspberry pi such that when a push button is pressed the logic high shld be read , when released a logic low shld be read . when push button is pressed led shld glow , when it is released the led shld turn off . 
+
+## 29-07
+
+### Ultra sonic sensor
+
+-4 pins - vcc , ground , echo , trig 
+
+-after receiving signal from microprocessor the ultrasonic transducer issues eight pulses of 40kHz .
+
+-gpio lines used for echo , trig 
+
+ 
+
+### 7 segment (4 digit LED)
+
+types of 7 segment led : common anode and common cathode 
+
+common anode - all anode shorted and connected to vcc through current ommiting resistor 
+
+common cathode - all cathode are shorted and connected to ground
+
+pins - vcc , ground , sclk , mosi , miso , CE(chip enable)
+
+serial communication to reduce number of lines
+
+list of commands
+
+startup - start operating mode
+
+setDecoderNone - all decoding is done manually by user
+
+setDecodeAll - send encoded data like 0-9 digits ,E,L,H,P,- Etc 
+
+setDigitSegments -
+
+setScanLimit - limit number of characters -max 8 using scrolling 
+
+setDisplayIntensity - to vary the brightness of the display max 15
+
+### DHT SENSOR
+
+important point - 10k ohm pull up resistor - used to distinguish logic 0 or logic 1 in case of floating points
+
+serial communication : data line is high initially host makes it low to signal the start and makes it high again and wait for the response 
+
+sensor or slave makes the signal low and then high to send out response
+
+then the actual data transfer happens : longer duration of high for 1 . lower duration of high for 0 
+
+then sensor makes the line low again and hands the contol to master
+
+dht 22
+
+**1–10 ms**: MCU pulls the line **LOW** to initiate the start signal.
+
+**20–40 µs**: MCU releases the line **HIGH** and waits for the sensor.
+
+**80 µs**: Sensor pulls the line **LOW** to acknowledge presence.
+
+**80 µs**: Sensor releases the line **HIGH** to prepare for data.
+
+**50 µs**: Sensor pulls the line **LOW** to signal the start of **every** bit.
+
+**26–28 µs**: Sensor holds the line **HIGH** to transmit a **Bit '0'**.
+
+**70 µs**: Sensor holds the line **HIGH** to transmit a **Bit '1'**.
+
+**50 µs**: Sensor pulls the line **LOW** one final time after the 40th bit to signal completion 
+
+| parameter | dht11 | dht22 |
+| --- | --- | --- |
+| range | 0 - 50 c                    | -40 - 80 c   |
+| humudity accuracy ,resolution , sampling period | +-4 - 5% , 8 bits , 1s | +-2 - 5% , 16 bits  , 2s  |
+| accuracy | +- 1 to 2 c  | +-0.5 c  |
+| humidity range | 30-90% | 0 - 100% |
+
+**The DHT22 measures humidity using a capacitive polymer sensor** and temperature using a **Negative Temperature Coefficient (NTC) thermistor**
+
+[]()
+
+#### FRAME FORMAT of dht11
+
+— 40 bits : 8 bit humidity integer data + 8 bit humidity decimal data + 8 bit temperature + 8 bits fractional temperature data + 8 bits parity/checksum 
+
+parity is used to verify whether the data is correctly received
+
+for example 0010 0010 is 34 
+
+#### FRAME FORMAT of dht22
+
+-40 bits : 16 bit humidity data + 16 bit temperature  data + 8 bit parity/checksum
+
+16 bit is used to increase accuracy for example 0000 0001 0101 1111 → 351 (dec) converted to 35.1°C
+
+### UART communication
+
+two lines - tx and rx
+
+### NPM PACKAGE INFORMATION SITE
+
+NPM → Node Packaged Manager
+
+ 
+
+### SENSORS
+
+#### sensor system
+
+measured quantity —> energy conversion —> analog system conditioning (amplification , linearization , signal conversion) —> analog/digital converter —> digital signal procesing (calculation , calibration,correction)
+
+discussion on intelligent sensor
+
+#### FEATURES OF SENSORS
+
+static characteristics - doesnt not vary with time
+
+-sensitivity
+
+-linearity
+
+-hysteresis
+
+-resolution - smallest change in input to observe smallest change in digital bit of output 
+
+-operating range
+
+-hysteresis : gives different curves in case of increasing stimuli and in case of decreasing stimuli (ex : similar to schmitt trigger)
+
+-selectability : characteristics that chooses only desired variables among multiple variables that are input to the sensor 
+
+should be able to be affected by only one physical phenomon and not any other phenomenon
+
+dynamic characterisitcs - varies with time
+
+-response time or speeed
+
+-frequency characteristics
+
+-time response characteristics of a sensor 
+
+-frequence response characteristics of a sensor
+
+-noise : a bit difficult to affecct digital signals , analog signals are very prone to noise
+
+-output impedance 
+
+voltage output - high ouput impedance to observe almost whole potential drop on the output side
+
+current output - low output impedance to offer least resistance path
+
+-environmental influence : drift and offset
+
+drift : change in slope of linearity 
+
+offset : same slope different starting point
+
+ 
+
+#### transfer function
+
+-relation between input and output signals 
+
+precision and accuracy comparision
+
+precision → repetition and reproducibility 
+
+### Classification of sensor
+
+#### based on power source
+
+-modulated sensor : power supplied externally (passive sensor)
+
+-self generating : power is generated by the sensor (active sensor)
+
+#### based on output signal
+
+-analog sensor 
+
+-digital sensor
+
+## 03-08
+
+### Light wave related semiconductor parts
+
+#### LED
+
+uses impure semiconductor
+
+#### Infrared light emitting diode
+
+700 nanometers (nm) to 1 millimeter (mm)
+
+used in remote controls , night vision camera
+
+#### Opto-electronic device
+
+- photodiode
+- phototransmitter
+- CdS Cell - cadmium sulphide cell - an example for ldr
+- 7 segment LED - two types - consumes more power therefore lcds are used / preffered
+    - common anode
+    - common cathode
+- Liquid crystal display
+    
+    uses another board to simplify the process by connecting only 2 lines for i2c communication 
+    
+- Photo coupler
+    
+    a light source diode and photo diode or a photo transmitter arranged to face each other and electrically insulate a computer and an external device - used to isolate high voltage and low voltage devices
+    
+- CdS photo coupler
+- Photo reflector
+    
+    simiar to photocouplers but uses reflectiveness to detect any object in the path
+    
+
+### Other devices
+
+- Oscillator
+    - ceramic oscillator : cheap substitutes of quartz vibrator
+    - Crystal vibrator
+    - crytal oscillator vibrator
+- push buttons
+- linear switches
+- dip switches
+- digital switch
+- rotary switch
+- IC socket
+- heat sinks
+- speakers
+- buzzers
+
+### Basic rules
+
+#### PARTS
+
+- name of the parts used
+- the constants of the part
+- connectivity and compatibility of the parts
+
+#### CONNECTION AND CONNECTIVITY
+
+- T junction is a connected junction
+- if no dot on intersection means not connected
+- unit can be omitted
+
+#### basic units :
+
+volts , ampere , watts , ohm , henry , farad , hertz
